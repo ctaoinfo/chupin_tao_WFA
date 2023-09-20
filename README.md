@@ -16,18 +16,18 @@
 
 ### Fonctionnalités:
 
-- Mode de jeu à choisir
-	- 100 points gagner
-	- illimité
-- Mode de vitesse à choisir
-	- vitesse faible
-	- vitesse moyenne
-	- vitesse rapide
-- Faire un système de point
-- Faire les textures
-- Gestion des collisions
-- Délimiter la map
-- Mettre pause à la partie
+[] Mode de jeu à choisir
+	[] 100 points gagner
+	[] illimité
+[] Mode de vitesse à choisir
+	[] vitesse faible
+	[] vitesse moyenne
+	[] vitesse rapide
+[] Faire un système de point
+[] Faire les textures
+[] Gestion des collisions
+[] Délimiter la map
+[] Mettre pause à la partie
 
 
 #### Jour 1:
