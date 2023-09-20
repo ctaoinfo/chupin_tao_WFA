@@ -1,6 +1,6 @@
 # chupin_tao_WFA
 
-## Projet 2 Snake C#
+## Projet 2 Pong C#
 
 ### Planning:
 
@@ -16,19 +16,6 @@
 
 ### Fonctionnalités:
 
-[] Mode de jeu à choisir
-	[] 100 points gagner
-	[] illimité
-[] Mode de vitesse à choisir
-	[] vitesse faible
-	[] vitesse moyenne
-	[] vitesse rapide
-[] Faire un système de point
-[] Faire les textures
-[] Gestion des collisions
-[] Délimiter la map
-[] Mettre pause à la partie
-
 
 #### Jour 1:
 
@@ -37,4 +24,4 @@
 - Choix du projet
 - Réflexion des fonctionnalités
 - Recherche des sprites - https://opengameart.org
-- 
+- Debut du projet
